@@ -18,7 +18,7 @@ A comprehensive restaurant management system template for FiveM servers using th
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 - [ox_target](https://github.com/overextended/ox_target)
-- [oxmysql](https://github.com/overextended/oxmysql)
+- [oxmysql](https://github.com/overextended/oxmysql)   (Optional - For transaction saving in DB)
 - [Renewed-Banking](https://github.com/Renewed-Scripts/Renewed-Banking) (Optional - for POS banking features)
 
 ## Installation
