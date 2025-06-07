@@ -164,9 +164,9 @@ eb-template/
 
 ## Configuration Examples
 
-### Restaurant Types
+### Restaurant Type
 
-**Fast Food Example:**
+**Example:**
 
 ```lua
 Config.RestaurantName = 'burgershot'
@@ -177,27 +177,6 @@ Config.RestaurantJob = 'burgershot'
 -- Products: Burgers, Fries, Sodas
 ```
 
-**Fine Dining Example:**
-
-```lua
-Config.RestaurantName = 'fancyrest'
-Config.RestaurantLabel = 'Le Bernardin'
-Config.RestaurantJob = 'finedining'
-
--- Stations: Prep, Grill, Dessert, Wine
--- Products: Steaks, Salads, Wine, Desserts
-```
-
-**Cafe Example:**
-
-```lua
-Config.RestaurantName = 'beancafe'
-Config.RestaurantLabel = 'Bean Machine'
-Config.RestaurantJob = 'beancafe'
-
--- Stations: Coffee, Pastries, Sandwiches
--- Products: Coffee, Tea, Muffins, Sandwiches
-```
 
 ## Advanced Features
 
